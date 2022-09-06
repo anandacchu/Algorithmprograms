@@ -28,16 +28,7 @@
 
         }
     }
-    }
-        string str1 = "heart";
-        string str2 = "earth";
+   
+ } 
+  
 
-        char[] chr1 = str1.ToLower().ToCharArray();
-        char[] chr2 = str2.ToLower().ToCharArray();
-       
-   Array.Sort(chr1);
-   Array.Sort(chr2);
-
-    string val1 = 
-    }
-}
